@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7DB3WvXdyA58ZeEEb0568QVcvokItyKzVWb3pvsqK3DIZtPB9ilsLjntB6F6fjPD3T9rScgMT2TzoMb67WAIdw==",
+  "success": true,
+  "projectFilePath": "C:\\Practice\\DeliberatePractice\\CSharpAlgos\\ArrayLesson\\ArrayLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whitf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

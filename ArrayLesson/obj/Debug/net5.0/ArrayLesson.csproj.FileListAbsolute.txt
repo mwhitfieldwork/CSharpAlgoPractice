@@ -1,0 +1,16 @@
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.exe
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.deps.json
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.runtimeconfig.json
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.runtimeconfig.dev.json
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.dll
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\bin\Debug\net5.0\ArrayLesson.pdb
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.csproj.AssemblyReference.cache
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.AssemblyInfoInputs.cache
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.AssemblyInfo.cs
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.csproj.CoreCompileInputs.cache
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.dll
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\refint\ArrayLesson.dll
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.pdb
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ArrayLesson.genruntimeconfig.cache
+C:\Practice\DeliberatePractice\CSharpAlgos\ArrayLesson\obj\Debug\net5.0\ref\ArrayLesson.dll
